@@ -5,7 +5,8 @@ PHP stands for PHP: Hypertext Preprocessor is one of the open source scripting l
 
 In this folder I created a simple website to learn PHP syntax.
 
-##Gambar 
+##Gambar
+
 ![image](https://github.com/user-attachments/assets/59f6353d-64e1-41d9-9bb8-3442921f6e3f)
 
 ![image](https://github.com/user-attachments/assets/dffbd823-801b-4c3b-be0c-09e1a7e6edb2)
